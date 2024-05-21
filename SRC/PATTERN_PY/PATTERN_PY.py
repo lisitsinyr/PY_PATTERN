@@ -1,4 +1,4 @@
-"""TEST_LU.py"""
+"""PATTERN_PY.py"""
 # -*- coding: UTF-8 -*-
 __annotations__ = """
  =======================================================
@@ -9,7 +9,7 @@ __annotations__ = """
      LU_PY
      Python (LU)
  Module:
-     TEST_LU.py
+     PATTERN_PY.py
 
  =======================================================
 """
