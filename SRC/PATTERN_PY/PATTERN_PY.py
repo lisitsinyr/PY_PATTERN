@@ -2,12 +2,11 @@
 # -*- coding: UTF-8 -*-
 __annotations__ = """
  =======================================================
- Copyright (c) 2023
+ Copyright (c) 2024
  Author:
      Lisitsin Y.R.
  Project:
-     LU_PY
-     Python (LU)
+     TOOLS_PY
  Module:
      PATTERN_PY.py
 
@@ -25,9 +24,7 @@ __annotations__ = """
 #------------------------------------------
 # БИБЛИОТЕКА LU
 #------------------------------------------
-# import lyrpy.LUConst as LUConst
-# import lyrpy.LULog as LULog
-# import lyrpy.LUDoc as LUDoc
+import lyrpy.LUConst as LUConst
 import lyrpy.LUDoc as LUDoc
 import lyrpy.LULog as LULog
 
