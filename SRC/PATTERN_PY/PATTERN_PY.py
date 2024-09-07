@@ -40,9 +40,11 @@ def main ():
 #beginfunction
     LULog.STARTLogging (LULog.TTypeSETUPLOG.tslINI,
                         r'D:\PROJECTS_LYR\LOGS',
-                        'LOGGING_FILEINI.log','LOGGING_FILEINI_json.log')
+                        'PATTERN_PY_FILEINI.log','PATTERN_PY_FILEINI_json.log')
 
     TEST_01 ()
+
+    LULog.STOPLogging ()
 
 #endfunction
 
